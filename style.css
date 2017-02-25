@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+li {
+    width: 400px;
+    display: inline-block;
+    list-style: none;
+}
+ul {
+    width: 2000px;
+    padding: 0;
+    margin: 0;
+}
+.gallery {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    overflow: hidden;
+}
